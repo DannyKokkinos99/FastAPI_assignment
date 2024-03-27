@@ -6,7 +6,7 @@ Code has been tested on python version 3.8.0 and 3.10.0
 ## Assumptions
 User will request data from 1 repository at a time
 ## Dependencies
-There are 2 main methods for install the dependencies
+There are 2 main methods for installing the dependencies
 
 ### 1. Install dependencies directly
 1. Run "pip install -r requirements.txt"
